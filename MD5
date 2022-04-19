@@ -1,12 +1,12 @@
-b2eaf55e25095810cbbe812d98c327e4 *DESCRIPTION
+8b22dfbf464ae86807db599721b9cc94 *DESCRIPTION
 8e7d5a441a671ef5ed4d10ec3ea2e1c9 *LICENSE
 12d1d74814854846a2130b6fe01ca305 *NAMESPACE
 3121c7a0e8401d9403437ce0ffac7a08 *R/boxplotdou.R
 74b02dfd7435e4bd859fa565ffc807eb *R/do.call.with.par.R
 97fcc891402849eb8064d5722e56637c *R/has.overlap.R
 3c4ba026f6769680ff71c352472150e1 *R/make.labels.R
-7d6746b6453f11e6eb2c46a938cad97a *R/make.shadings.R
-30ce2702bd186617fc14e350f7d12abe *build/partial.rdb
+b37fb20a2c2ffe92634824aa3875aebd *R/make.shadings.R
+4365ffb7d7525293a2aa71ccff5058a9 *build/partial.rdb
 8743910bfe797cab8256b662d2bc731b *inst/CHANGES
-b4d965a85a310661b55d076d5bfb4dc1 *man/boxplotdbl-package.Rd
-fd7fec8993ab23e83b1ec093b732fd4e *man/boxplotdou.Rd
+f7c2129e7c45c56eb7f267b0dc7bd9c0 *man/boxplotdbl-package.Rd
+84af18ffdbbeea1db280e65288ac9c75 *man/boxplotdou.Rd
